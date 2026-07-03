@@ -1,5 +1,5 @@
-# Laporan PKL Harian ( 29 Juni 2026 )
-**📅 Tanggal:** 29 Juni 2026 (Senin)
+# Laporan PKL Harian ( {{date}} )
+**📅 Tanggal:** {{date}} (DAY)
 
 ## Aktivitas
 - 
