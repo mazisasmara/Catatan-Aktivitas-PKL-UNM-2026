@@ -1,5 +1,5 @@
 # Laporan PKL Harian ( Senin )
-**📅 Tanggal:** 14 Juli 2026 (Selasa)
+**📅 Tanggal:** 13 Juli 2026 (Selasa)
 
 ## Aktivitas
 - Merapihkan & menggulung kabel
